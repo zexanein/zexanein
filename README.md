@@ -1,4 +1,4 @@
-# Hi there, I'm zexanein! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Sami;I'm+developing+games+with+Unity)](https://git.io/typing-svg)
 
 I'm a passionate **Unity Game Developer** with a knack for crafting immersive and engaging gaming experiences. I love bringing ideas to life through code and creative design.
 
