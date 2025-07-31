@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Sami;I'm+developing+games+with+Unity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&size=28&duration=4000&pause=500&color=E1E1E1&background=FF000000&vCenter=true&width=600&height=40&lines=%F0%9F%91%8B+Hi+There!+I'm+Sami;I'm+developing+games+with+Unity)](https://git.io/typing-svg)
+---
 
-I'm a passionate **Unity Game Developer** with a knack for crafting immersive and engaging gaming experiences. I love bringing ideas to life through code and creative design.
+#### <center> I'm a passionate **Unity Game Developer** I love bringing ideas to life through code and creative design. </center>
 
 ---
 
