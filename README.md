@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&size=28&duration=4000&pause=500&color=E1E1E1&background=FF000000&vCenter=true&width=600&height=40&lines=%F0%9F%91%8B+Hi+There!+I'm+Sami;I'm+developing+games+with+Unity)](https://git.io/typing-svg)
----
-<p style="text-align:center"> I'm a passionate Unity Game Developer I love bringing ideas to life through code and creative design. </p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=28&duration=4000&pause=500&color=E1E1E1&background=FF000000&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%91%8B+Hi+There!+I'm+Sami;I'm+developing+games+with+Unity" alt="Typing SVG" />
+</div>
+
+<div align="center"> I'm a passionate Unity Game Developer I love bringing ideas to life through code and creative design. </div>
 
 ---
 
