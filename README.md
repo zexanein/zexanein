@@ -12,7 +12,7 @@ Here are some of the technologies and practices I'm proficient with:
 
 *   **Languages & Engines:** C#, Unity
 *   **Core Competencies:** Game Programming, Design Patterns, Performance Optimization
-*   **Game Development:** Gameplay Mechanics, UI/UX Implementation, Asset Integration
+*   **Game Development:** Mechanics Programming, UI/UX Implementation, Modular System Development
 
 ---
 
