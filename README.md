@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ My Skillset
+### My Skillset
 
 Here are some of the technologies and practices I'm proficient with:
 
@@ -16,30 +16,17 @@ Here are some of the technologies and practices I'm proficient with:
 
 ---
 
-### 🚀 My Projects & Portfolio
+### Projects & Portfolio
 
-You can check out some of my games on my **itch.io page**:
-
-*   ➡️ [zexanein.itch.io](https://zexanein.itch.io)
-
----
-
-### 🌱 I'm Currently...
-
-*   Honing my skills in optimization and technical base.
-*   Exploring mobile games.
-*   Looking for new opportunities to collaborate on exciting game projects!
+* I am showcasing anything about my career on [linktree](https://linktr.ee/zexanein)
+* You can check out some of my games on [itch.io](https://zexanein.itch.io)
 
 ---
 
-### 📫 Let's Connect!
+### Contact Information
 
-You can find more about me and my work here:
-
-*   💼 **LinkedIn:** [in/zexanein](https://linkedin.com/in/zexanein)
-*   🌳 **Linktree:** [linktr.ee/zexanein](https://linktr.ee/zexanein)
-*   🕹️ **itch.io:** [zexanein.itch.io](https://zexanein.itch.io)
-*   🐦 **X:** [@zexaneinn](https://x.com/zexaneinn)
+* [LinkedIn Account](https://linkedin.com/in/zexanein)
+* Send me an E-Mail: zexanein@gmail.com
 
 ---
 
@@ -47,5 +34,3 @@ You can find more about me and my work here:
 <!-- Example: [![zexanein's GitHub stats](https://github-readme-stats.vercel.app/api?username=zexanein&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![zexanein's GitHub stats](https://github-readme-stats.vercel.app/api?username=zexanein&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-Thanks for stopping by!
