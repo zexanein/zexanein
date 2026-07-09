@@ -27,10 +27,3 @@ Here are some of the technologies and practices I'm proficient with:
 
 * [LinkedIn Account](https://linkedin.com/in/zexanein)
 * Send me an E-Mail: zexanein@gmail.com
-
----
-
-<!-- Optional: Add some fun GitHub stats here! -->
-<!-- Example: [![zexanein's GitHub stats](https://github-readme-stats.vercel.app/api?username=zexanein&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![zexanein's GitHub stats](https://github-readme-stats.vercel.app/api?username=zexanein&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
